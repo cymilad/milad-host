@@ -10,7 +10,7 @@
 
 <br />
 
-### Demo Screeshots
+### Demo Screeshots 🖼️
 
 ![Dashboard Desktop Demo](./images/milad-host.png)
 
@@ -19,13 +19,13 @@
 Before you begin, ensure you have met the following requirements:
 
 * Windows : [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-* Linux : apt-get install git
+* Linux and macOS : apt-get install git
 
 ### Run Localhost
 
 To run **milad-host** locally, run this command on your git bash:
 
-Linux and macOS 🍏:
+Linux 🐧 and macOS 🍏:
 
 ```bash
 sudo git clone https://github.com/cymilad/milad-host.git
