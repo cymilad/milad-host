@@ -38,7 +38,7 @@ git clone https://github.com/cymilad/milad-host.git
 
 ### Contact 💬 
 Telegram : <a href="https://t.me/cymilad" target="_blank"><strong>cymilad</strong></a> <br>
-Instagram : <a href="https://instagram/cymilad" target="_blank"><strong>cymilad</strong></a> <br>
+Instagram : <a href="https://instagram.com/cymilad" target="_blank"><strong>cymilad</strong></a> <br>
 Twitter : <a href="https://x.com/cymilad" target="_blank"><strong>cymilad</strong></a> <br>
 Email : <a href="malito:milad1418@yahoo.com" target="_blank"><strong>milad1418@yahoo.com</strong></a>
 
