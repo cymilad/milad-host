@@ -12,7 +12,7 @@
 
 ### Demo Screeshots
 
-![Dashboard Desktop Demo]("./images/milad-host.png")
+![Dashboard Desktop Demo](./images/milad-host.png)
 
 ### Prerequisites
 
