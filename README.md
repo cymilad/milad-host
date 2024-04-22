@@ -1,7 +1,7 @@
 <div align="center">
   <h2 align="center">Theme Sales Host</h2>
   
-  This dashboard is fully responsive for all devices, <br/> Built using HTML, CSS, JavaScript and Bootstrap 5.
+  This Theme is fully responsive for all devices, <br/> Built using HTML, CSS, JavaScript and Bootstrap 5.
   
   <a href="https://cymilad.ir/projects/hosting-panel/" target="_blank"><strong>➥ Live Demo</strong></a>
   
