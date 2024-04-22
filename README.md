@@ -1,8 +1,8 @@
-<h2 align="center">Dashboard - Admin Dashboard</h2>
+<h2 align="center">Theme Sales Host</h2>
 
-This dashboard is fully responsive for all devices, <br/> Built using HTML, CSS, and JavaScript.
+This dashboard is fully responsive for all devices, <br/> Built using HTML, CSS, JavaScript and Bootstrap 5.
 
-<a href="https://codewithsadee.github.io/dashboard/"><strong>➥ Live Demo</strong></a>
+<a href="https://cymilad.ir/projects/hosting-panel/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
