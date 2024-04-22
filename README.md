@@ -24,21 +24,23 @@ Before you begin, ensure you have met the following requirements:
 
 To run **milad-host** locally, run this command on your git bash:
 
-Linux and macOS:
+Linux and macOS 🍏:
 
 ```bash
 sudo git clone https://github.com/cymilad/milad-host.git
 ```
 
-Windows:
+Windows 🪟:
 
 ```bash
 git clone https://github.com/cymilad/milad-host.git
 ```
 
-### Contact 
-
-
+### Contact 💬 
+Telegram : <a href="https://t.me/cymilad" target="_blank"><strong>cymilad</strong></a>
+Instagram : <a href="https://instagram/cymilad" target="_blank"><strong>cymilad</strong></a>
+Twitter : <a href="https://x.com/cymilad" target="_blank"><strong>cymilad</strong></a>
+Email : <a href="malito:milad1418@yahoo.com" target="_blank"><strong>milad1418@yahoo.com</strong></a>
 
 ### License 🪪
 
