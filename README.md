@@ -18,8 +18,8 @@
 
 Before you begin, ensure you have met the following requirements:
 
-* Windows : [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-* Linux and macOS : apt-get install git
+* Windows :  [Git](https://git-scm.com/downloads "Download Git") <b> must be installed on your operating system. </b>
+* Linux and macOS :  <b> apt-get install git </b>
 
 ### Run Localhost
 
